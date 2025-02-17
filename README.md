@@ -1,6 +1,6 @@
 # 🎯 Simple Shooter - 언리얼 엔진 4 FPS 게임
 
-**Simple Shooter**는 **Unreal Engine 4.2**로 개발된 **1인칭 슈팅 게임(FPS)**입니다.  
+**Simple Shooter**는 **Udemy**강의 영상을 바탕으로 **Unreal Engine 4.2**로 개발된 **1인칭 슈팅 게임(FPS)**입니다.  
 AI 적들과 전투하며 다양한 무기를 사용해 승리를 목표로 하는 게임입니다.
 
 ---
